@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Pareja Press
 ---
 
-Welcome to the **home** of my _cool_ page. Very *cool* 
+**an orlando city tactics blog**
